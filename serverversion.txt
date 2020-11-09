@@ -1,0 +1,4 @@
+1.0.0
+Ice_Burner_Simulator
+新增更新功能
+https://github.com/wonk2563/MaoIceBurnSimTREE/raw/main/Ice_Burner_Simulator.zip
