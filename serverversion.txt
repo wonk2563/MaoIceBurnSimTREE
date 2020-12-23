@@ -1,4 +1,5 @@
-1.0.0
+1.1.0
 Ice_Burner_Simulator
-新增更新功能
+冰機資料更新至[魅影君主]
+新增檢查更新功能
 https://github.com/wonk2563/MaoIceBurnSimTREE/raw/main/Ice_Burner_Simulator.zip
